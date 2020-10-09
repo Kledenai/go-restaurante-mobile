@@ -71,8 +71,6 @@ $ git push origin minha-branch
 
 Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
 
-<p>feito com 💜 Lorison Gilles :wave: <a href="https://www.linkedin.com/in/lorison-gilles/">Get in touch!</a></p>
-
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
